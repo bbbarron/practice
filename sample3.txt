@@ -1,1 +1,3 @@
-This the third file I created. I put it in the same directory, but it is not tracked.
+This the fourth file I created. I put it in the same directory, but it is not tracked.
+
+I think it is now!
