@@ -2,6 +2,8 @@
 
 this file created and edited first 1/1/2015 12:00 noon
 
-Marry had a little ox whose skin was dark as coal.
+Mary had a little ox whose skin was dark as coal.
 
 Testing…tasting…toasting
+
+OK, I just changed this by adding this line.
