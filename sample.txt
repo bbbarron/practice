@@ -7,3 +7,5 @@ Mary had a little ox whose skin was dark as coal.
 Testing…tasting…toasting
 
 OK, I just changed this by adding this line.
+
+This is a change I am making to version 6 to I can submit many changes all at once.
