@@ -1,0 +1,7 @@
+***** this is a new sample file. Created by touch and texedit. I want to check and investigate how a git repo is created and maintained.
+
+this file created and edited first 1/1/2015 12:00 noon
+
+Marry had a little ox whose skin was dark as coal.
+
+Testing…tasting…toasting
