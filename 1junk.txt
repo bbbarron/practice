@@ -1,3 +1,10 @@
+This is a practice test file, that I am using to
+learn how to use VIM. I don't really like VIM, and would never chosse it as MY editor
+of preferrence. Now is the time for all good men to come to the aid of their countries. The quick brown fox jumped over the lazy dogs. HOw now brown cow.
+
+
+
+
 Now is the time for all good men to come to the aid of their countries.
 The quick brown fox
 
